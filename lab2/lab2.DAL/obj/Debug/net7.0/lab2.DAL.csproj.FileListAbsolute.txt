@@ -1,0 +1,14 @@
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\bin\Debug\net7.0\lab2.DAL.deps.json
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\bin\Debug\net7.0\lab2.DAL.runtimeconfig.json
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\bin\Debug\net7.0\lab2.DAL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\bin\Debug\net7.0\lab2.DAL.pdb
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.csproj.AssemblyReference.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.AssemblyInfoInputs.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.AssemblyInfo.cs
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.csproj.CoreCompileInputs.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\refint\lab2.DAL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.pdb
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\lab2.DAL.genruntimeconfig.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.DAL\obj\Debug\net7.0\ref\lab2.DAL.dll

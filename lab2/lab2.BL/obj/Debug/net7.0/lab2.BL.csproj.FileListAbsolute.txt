@@ -1,0 +1,17 @@
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.deps.json
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.pdb
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.DAL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.DAL.pdb
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.AssemblyReference.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.AssemblyInfoInputs.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.AssemblyInfo.cs
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.CoreCompileInputs.cache
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.csproj.CopyComplete
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\refint\lab2.BL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.pdb
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\ref\lab2.BL.dll
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\bin\Debug\net7.0\lab2.BL.runtimeconfig.json
+F:\iti 9m mnf\Api\day2\lab\lab2\lab2.BL\obj\Debug\net7.0\lab2.BL.genruntimeconfig.cache
